@@ -16,4 +16,4 @@ The project was created for educational purposes to explore and showcase various
 ## Implemented Examples
 
 * [Natural Language to SQL Translation](nl-to-sql)
-* [Exam Creator]{exam-creator}
+* [Exam Creator](exam-creator})
