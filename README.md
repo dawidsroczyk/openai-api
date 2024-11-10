@@ -18,3 +18,4 @@ The project was created for educational purposes to explore and showcase various
 * [Natural Language to SQL Translation](nl-to-sql)
 * [Exam Creator](exam-creator)
 * [Recipe Creator](recipe-creator)
+* [Fine tuning for better book recomendations](fine-tuning)
