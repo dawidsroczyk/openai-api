@@ -18,5 +18,5 @@ The project was created for educational purposes to explore and showcase various
 * [Natural Language to SQL Translation](nl-to-sql)
 * [Exam Creator](exam-creator)
 * [Recipe Creator](recipe-creator)
-* [Code completion using Azure OpenAI Services](azure-code-completor)
+* [Code completion using Azure OpenAI Services](azure-code-completer)
 * [Fine tuning for better book recomendations](fine-tuning)
